@@ -12,6 +12,9 @@ Dataset Link: https://www.kaggle.com/competitions/moviegenres/overview
 ![web page](readme_resources/Movie-Genres-Predict-Model.png)
 ![GIF](readme_resources/Movie-Genres-Predict-Model.gif)
 
+![Action Movie](readme_resources/action.png)
+![Comedy Movie](readme_resources/comedy.png)
+![Drama Movie](readme_resources/drama.png)
 
 
 • Please do ⭐ the repository, if it helped you in anyway.
