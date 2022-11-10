@@ -9,9 +9,9 @@ Dataset Link: https://www.kaggle.com/competitions/moviegenres/overview
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 # web app:
-
+[](readme_resources/Movie-Genres-Predict-Model.png)
 ![GIF](readme_resources/Movie-Genres-Predict-Model.gif)
-[Web App Sample](readme_resources/Movie-Genres-Predict-Model.png)
+
 
 
 • Please do ⭐ the repository, if it helped you in anyway.
