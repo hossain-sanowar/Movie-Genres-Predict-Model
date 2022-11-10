@@ -1,5 +1,5 @@
 # Movie-Genres-Predict-Model
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 This project is a straightforward introduction to developing prediction models using machine learning. Using the supplied training data, I will be presented with a 1000-character sample of a movie screenplay and asked to forecast the film's genre.
 
